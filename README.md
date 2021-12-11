@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://github.com/brunomoraisti/nlw-payflow/blob/main/assets/images/logo.png" width="100" alt="logo tacaro"/>
+      <img src="/assets/images/logo.png" width="100" alt="logo tacaro"/>
 </p>
 ---
 
