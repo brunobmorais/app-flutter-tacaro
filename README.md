@@ -1,7 +1,6 @@
 <p align="center">
       <img src="/assets/images/logo.png" width="200" alt="logo tacaro"/>
 </p>
----
 
 <h1 align="center">Sobre</h1>
 
