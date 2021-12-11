@@ -1,12 +1,11 @@
-![](./assets/images/logo.png)
 <p align="center">
       <img src="https://github.com/brunomoraisti/nlw-payflow/blob/main/assets/images/logo.png" width="100" alt="logo tacaro"/>
 </p>
 ---
 
-<h1 align="center">Ta caro?</h1>
+<h1 align="center">Sobre</h1>
+
 ---
-## Sobre
 
 Aplicativo para versão mobile, com intuito de ajudar as pessoas a terem um melhor controle do preços dos produtos que adquirimos no cotidiano.
 
