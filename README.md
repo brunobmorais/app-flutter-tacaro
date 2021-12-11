@@ -1,11 +1,9 @@
 <p align="center">
-      <img src="/assets/images/logo.png" width="100" alt="logo tacaro"/>
+      <img src="/assets/images/logo.png" width="200" alt="logo tacaro"/>
 </p>
 ---
 
 <h1 align="center">Sobre</h1>
-
----
 
 Aplicativo para versão mobile, com intuito de ajudar as pessoas a terem um melhor controle do preços dos produtos que adquirimos no cotidiano.
 
